@@ -48,11 +48,12 @@ Visual-Inertial Localization in high-speed motion scenes （IROS 2024）
 
 ![](./github_img/platform_modify.gif)
 
-****
+
 
 * **sequence** (low-comb)
 
 ![](./github_img/lab_low 00_00_00-00_00_30.gif)
+![](./github_img/platform_modify.gif)
 
 * **sequence** (middle-comb)
 
