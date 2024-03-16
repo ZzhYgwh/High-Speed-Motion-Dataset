@@ -30,7 +30,7 @@ Visual-Inertial Localization in high-speed motion scenes （IROS 2024）
 }
 ```
 
-![](/media/hao/Windows-SSD/Users/10241/Desktop/论文框架/IROS2024/Image/high-speed-camera3.png)
+![](../github_img/high-speed-camera3.png)
 
    Then we will introduce the experimental scenario and dataset. The research room scenario provides stable lighting and complex feature environments, and the data is collected using handheld devices; The laboratory has designed high-speed sports aimed at challenging extreme sports, using suspension ropes and rolling pulleys to achieve high-speed rotation and sliding. We offer only ROS bag formats and calibration result. To provide groud truth, a motion capture system, Optitrack, uses 360Hz for high-speed tracking.  We performed some necessary processing on the data, including data timing check, data reduction and platform calibration.
 
@@ -46,21 +46,21 @@ Visual-Inertial Localization in high-speed motion scenes （IROS 2024）
 
 * platform
 
-![](/media/hao/Windows-SSD/Users/10241/Desktop/论文框架/IROS2024/show/video/platform_modify.gif)
+![](../github_img/platform_modify.gif)
 
 ****
 
 * **sequence** (low-comb)
 
-![](/media/hao/Windows-SSD/Users/10241/Desktop/video/diff_dataset/GIF/GIF/lab_low 00_00_00-00_00_30.gif)
+![](../github_img/lab_low 00_00_00-00_00_30.gif)
 
 * **sequence** (middle-comb)
 
-![](/media/hao/Windows-SSD/Users/10241/Desktop/video/diff_dataset/GIF/GIF/lab_middle 00_00_00-00_00_30.gif)
+![](../github_img/lab_middle 00_00_00-00_00_30.gif)
 
 * **sequence** (high-comb)
 
-![](/media/hao/Windows-SSD/Users/10241/Desktop/video/diff_dataset/GIF/GIF/lab_High 00_00_00-00_00_30.gif)
+![](../github_img/lab_High 00_00_00-00_00_30.gif)
 
 **More details will open later!**
 
