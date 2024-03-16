@@ -75,7 +75,7 @@ https://drive.google.com/drive/folders/1lwLOps9IEREn25w_IaCFSfaC7x56qSB7?usp=dri
 In groudtruth(GT), red point is start point and green point is end point.
 
 | Sequence            | Duration（s） | Size（Mb） | Dist（m） | ROSbag                                                       | Translate | Rotation |  GT                                                           |
-| ------------------- | ------------- | ---------- | --------- | ------------------------------------------------------------ | --------- | -------- | ----- | ------------------------------------------------------------ |
+| ------------------- | ------------- | ---------- | --------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 | low_trans           | 90            | 708        | 23.218    | [low_trans](https://drive.google.com/file/d/1irXh9KgazcTwCO26oSpeHJsE4pKhx_AP/view?usp=drive_link) | low       | none      | ![](./github_img/low_trans.png) |
 | low_rot             | 113           | 798        | 12.485    | [low_rot](https://drive.google.com/file/d/1XK7oMlsZ-07NL4M49tnbgZSWljLmPxV2/view?usp=drive_link) | none      | low       | ![](./github_img/low_rot.png) |
 | low_comb            | 122           | 845        | 22.333    | [low_comb](https://drive.google.com/file/d/15WL9QSQ9VzETQgV4uN1tnsc3QIwXMvmZ/view?usp=drive_link) | low       | low       | ![](./github_img/low_comb.png) |
