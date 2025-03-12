@@ -113,13 +113,14 @@ need time!
 If you need academic citations, please follow the Bibtex format:
 
 ```latex
-@inproceedings{SwiftBase,
-  title={SwiftBase: A dataset based on high-frequency visual measurement for Visual-Inertial Localization in high-speed motion scenes},
-  author={Zhenghao Zou, Chunhui Zhao, Xirui Kao, Jiangbo Liu, HaoChen Chai and Yang Lyu},
+@inproceedings{zou2024swiftbase,
+  title={SwiftBase: A Ddataset based on High-Frequency Visual Measurement for Visual-Inertial Localization in High-Speed Motion Scenes},
+  author={Zou, Zhenghao and Lyu, Yang and Zhao, Chunhui and Kao, Xirui and Liu, Jiangbo and Chai, Haochen},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={XX--XX},
+  pages={10206--10213},
   year={2024},
   organization={IEEE}
 }
+
 ```
 
