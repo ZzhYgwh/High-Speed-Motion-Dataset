@@ -1,4 +1,4 @@
-# **SwiftBase: A dataset based on high-frequency visual measurement for **Visual-Inertial Localization in high-speed motion scenes
+# SwiftBase: A dataset based on high-frequency visual measurement for Visual-Inertial Localization in high-speed motion scenes
 
 ### Abstract
 
